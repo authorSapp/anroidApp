@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android_App</string>
+    <string-array name="names">
+        <item>[closed data]</item>
+        <item>[closed data]</item>
+        <item>[closed data]</item>
+        <item>[closed data]</item>
+        <item>[closed data]</item>
+    </string-array>
+</resources>
